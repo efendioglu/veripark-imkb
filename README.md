@@ -9,3 +9,4 @@ Implementation of "ISE Stocks and Indices" which is required to be done during V
  * [Okhttp](http://square.github.io/okhttp/)
  * [Gson](https://github.com/google/gson)
  * [ButterKnife](http://jakewharton.github.io/butterknife/)
+ * [kSoap2](http://kobjects.org/ksoap2/index.html)
