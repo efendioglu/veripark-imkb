@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VeriPark IMKB</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment.title.stocks">Hisse Ve Endeksler</string>
+    <string name="fragment.title.rising.stocks">Yükselenler</string>
+    <string name="fragment.title.falling.stocks">Düşenler</string>
+    <string name="fragment.title.imkb100">IMKB 100</string>
+    <string name="fragment.title.imkb50">IMKB 50</string>
+    <string name="fragment.title.imkb30">IMKB 30</string>
+    <string name="chart.title.monthly">Aylık</string>
+    <string name="chart.title.weekly">Haftalık</string>
+    <string name="chart.title.daily">günlük</string>
+</resources>

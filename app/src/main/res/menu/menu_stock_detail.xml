@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.veripark.imkb.StockListActivity">
+    <item
+        android:id="@+id/action_monthly"
+        android:orderInCategory="100"
+        android:title="Aylık"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_weekly"
+        android:orderInCategory="100"
+        android:title="Haftalık"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_daily"
+        android:orderInCategory="100"
+        android:title="Günlük"
+        app:showAsAction="never" />
+</menu>
